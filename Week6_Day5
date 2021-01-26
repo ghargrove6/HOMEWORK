@@ -1,0 +1,35 @@
+// Create a small program that defines some fields
+
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.print("World O' Hell...");
+        System.out.print("Java is hard!");
+        System.out.print("... don't you think?");
+
+        //DIFFERENT PRINT (println) METHOD NOT SURE WHY THIS ERROR RESULTS: java: class, interface, or enum expected
+        // System.out.println("Free Beer Tomorrow!");
+
+
+        //ERROR: java: illegal start of expression (NEED TO RESEARCH0
+       // import java.util.Scanner;
+
+        // ERROR: java: class HelloWorld is already defined in package unnamed package (DUPLICATE CLASS)
+
+   //     class HelloWorld {
+   //     public static void main(String[] args) {
+   //     System.out.print("Hello, World!\n");
+   //     System.out.print("Today is awesome!");
+   //     System.out.print("... don't you think?");
+
+            }
+        }
+        // ADDITIONAL LINES
+
+          }
+}
+
+/*for (int i=(int)'A'; i<=(int)'Z'; i++)
+        for (int i=(int)'0'; i<=(int)'9'; i++){
+        System.out.println(i);
+        }
+*/
